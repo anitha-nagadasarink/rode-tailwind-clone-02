@@ -17,8 +17,9 @@ Works fine across devices desktop design starts from 1920px and mobile starts fr
 
 ### Demo :
 
-![Web Site Image](https://github.com/anitha-nagadasarink/paytm-tailwid-clone/blob/HTML-CSS-Projects/Assets/desktop.pngg)
+![Web Site Image](https://github.com/anitha-nagadasarink/rode-tailwind-clone-new/blob/HTML-CSS-Projects/Assets/desktop-demo.png)
+![Mobile Site Image](https://github.com/anitha-nagadasarink/rode-tailwind-clone-new/blob/HTML-CSS-Projects/Assets/mobile-demo.png)
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://paytm-tailwind-clone-new.netlify.app/)
+[Live Link !](https://rode-tailwind-clone-new.netlify.app/)
